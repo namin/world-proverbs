@@ -1,4 +1,38 @@
-- Acta non verba
+- acta non verba
   - Actions not words!
-- Carpe Diem
+- carpe diem
   - Seize the day!
+- ora et labora
+  - Pray and work!
+- scribere est cogitare
+  - To write is to think.
+- gerba vola, letter manet.
+  - Words fly away, the letter remains.
+- Scientia potentia est.
+  - Knowledge is power.
+- ab initio
+  - from the beginning
+- regnat populus
+  - The people rule.
+- veni, vidi, vici.
+  - I came, I saw, I conquered.
+- nunc aut numquam
+  - now or never
+- semper fidelis
+  - always faithful
+- ars longa, vita brevis.
+  - Art is long, time is brief.
+- sic semper tyrannis
+  - thus always tyranny
+- ad astra per aspere
+  - to the stars through difficulties
+- dum spiro spero
+  - While i breathe, i hope.
+- fiat lux
+  - Let there be light.
+- tempus figit
+  - Time flies.
+- veritas vos liberabit
+  - the truth will set you free
+- in principio erat verbum
+   - in the beginning the word
