@@ -1,0 +1,4 @@
+- Acta non verba
+  - Actions not words!
+- Carpe Diem
+  - Seize the day!
