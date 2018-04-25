@@ -36,3 +36,5 @@
   - the truth will set you free
 - in principio erat verbum
    - in the beginning the word
+- lupus in fabula
+   - speak of the devil
