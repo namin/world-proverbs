@@ -17,4 +17,4 @@
 - si stava meglio quando si stava peggio
    - it was better when it was worse
 - chi va piano va sano e lontano
-   - they who go slow, go far and safe
+   - they who go slow, go safe and far
