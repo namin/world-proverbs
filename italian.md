@@ -1,0 +1,18 @@
+- chi fa per se fa per tre
+   - do it yourself, it's 3 times better
+- la gatta frettolosa fa i gattini cechi
+   - The hasty cat makes blind kittens 
+- chi dorme non piglia pesci
+   - the sleeper doesn't catch fishes
+- tanto va la gatta al lardo che ci lascia lo zampino
+   - the cat that tries too hard to reach the lard will leave behind its footprint
+- a caval donato non guardare in bocca
+   - don't look in the mouth of a gifted horse 
+- a buon intenditore poche parole
+   - few words for the expert
+- la notte porta consiglio
+   - Night brings advice
+- la pazienza é la virtú dei forti
+   - patience is strong people's virtue
+- si stava meglio quando si stava peggio
+   - it was better when it was worse
